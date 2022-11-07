@@ -6,6 +6,7 @@ body {
 footer {
   color: #fff;
   font-family: monospace;
+  font-size: 10px;
 }
 
 #level-title {
@@ -99,8 +100,8 @@ footer {
   }
   
   .btn {
-    height: 3rem;
-    width: 3rem;
+    height: 4rem;
+    width: 4rem;
     border-width: 3px;
   }
 }
